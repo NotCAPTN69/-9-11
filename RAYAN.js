@@ -780,7 +780,9 @@ RAYAN46.on("ready", () => {
   var join = RAYAN46.channels.get("1155197342375497870"); /// id voice
   if (join) join.join();
 });
+
 //==============RAYAN============//
+
 RAYAN.login("MTE1OTY2NjcwMDc2MTk2NDU2NQ.GsElEU.8_amJdhujQ7bvOk8aQCxw-9ueRTXZpvDtO4tDY");
 RAYAN2.login("MTE1OTMwNjE4NTk0NjY5NzczOA.GC7zSb.kdIPTfmzoWUq_ECUpj_HjmyTgHBR_Wu-4CQ0zo");
 RAYAN3.login("MTA3NTkxOTc5NTY2NjU3MTI3NA.GUemEv.WXJ3LzZd8DqWAQHI-Ce3iXoYGI4mgudXsYf4x4");
@@ -827,4 +829,5 @@ RAYAN43.login("");
 RAYAN44.login("");
 RAYAN45.login("");
 RAYAN46.login("");
+
 //===============RAYAN============//
