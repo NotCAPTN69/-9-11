@@ -601,183 +601,183 @@ RAYAN46.on("ready", () => {
 
 //==============RAYAN============//
 RAYAN.on("ready", () => {
-  var join = RAYAN.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN2.on("ready", () => {
-  var join = RAYAN2.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN2.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN3.on("ready", () => {
-  var join = RAYAN3.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN3.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN4.on("ready", () => {
-  var join = RAYAN4.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN4.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN5.on("ready", () => {
-  var join = RAYAN5.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN5.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN6.on("ready", () => {
-  var join = RAYAN6.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN6.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN7.on("ready", () => {
-  var join = RAYAN7.channels.get("1155197342375497870");  /// id voice
+  var join = RAYAN7.channels.get("1161613309699686420");  /// id voice
   if (join) join.join();
 });
 RAYAN8.on("ready", () => {
-  var join = RAYAN8.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN8.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN9.on("ready", () => {
-  var join = RAYAN9.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN9.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN10.on("ready", () => {
-  var join = RAYAN10.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN10.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN11.on("ready", () => {
-  var join = RAYAN11.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN11.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN12.on("ready", () => {
-  var join = RAYAN12.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN12.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN13.on("ready", () => {
-  var join = RAYAN13.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN13.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN14.on("ready", () => {
-  var join = RAYAN14.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN14.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN15.on("ready", () => {
-  var join = RAYAN15.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN15.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN16.on("ready", () => {
-  var join = RAYAN16.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN16.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN17.on("ready", () => {
-  var join = RAYAN17.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN17.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN18.on("ready", () => {
-  var join = RAYAN18.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN18.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN19.on("ready", () => {
-  var join = RAYAN19.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN19.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN20.on("ready", () => {
-  var join = RAYAN20.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN20.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN21.on("ready", () => {
-  var join = RAYAN21.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN21.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN22.on("ready", () => {
-  var join = RAYAN22.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN22.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN23.on("ready", () => {
-  var join = RAYAN23.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN23.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN24.on("ready", () => {
-  var join = RAYAN24.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN24.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN25.on("ready", () => {
-  var join = RAYAN25.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN25.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN26.on("ready", () => {
-  var join = RAYAN26.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN26.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN27.on("ready", () => {
-  var join = RAYAN27.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN27.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN28.on("ready", () => {
-  var join = RAYAN28.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN28.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN29.on("ready", () => {
-  var join = RAYAN29.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN29.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN30.on("ready", () => {
-  var join = RAYAN30.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN30.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN31.on("ready", () => {
-  var join = RAYAN31.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN31.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN32.on("ready", () => {
-  var join = RAYAN32.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN32.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN33.on("ready", () => {
-  var join = RAYAN33.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN33.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN34.on("ready", () => {
-  var join = RAYAN34.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN34.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN35.on("ready", () => {
-  var join = RAYAN35.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN35.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN36.on("ready", () => {
-  var join = RAYAN36.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN36.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN37.on("ready", () => {
-  var join = RAYAN37.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN37.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN39.on("ready", () => {
-  var join = RAYAN39.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN39.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN40.on("ready", () => {
-  var join = RAYAN40.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN40.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN41.on("ready", () => {
-  var join = RAYAN41.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN41.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN42.on("ready", () => {
-  var join = RAYAN42.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN42.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN43.on("ready", () => {
-  var join = RAYAN43.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN43.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN44.on("ready", () => {
-  var join = RAYAN44.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN44.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN45.on("ready", () => {
-  var join = RAYAN45.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN45.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 RAYAN46.on("ready", () => {
-  var join = RAYAN46.channels.get("1155197342375497870"); /// id voice
+  var join = RAYAN46.channels.get("1161613309699686420"); /// id voice
   if (join) join.join();
 });
 
