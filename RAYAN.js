@@ -47,6 +47,7 @@ const RAYAN44 = new Discord.Client();
 const RAYAN45 = new Discord.Client();
 const RAYAN46 = new Discord.Client();
 //===============RAYAN============//
+
 RAYAN.on("ready", () => {
   console.log(`Online In Servers`);
   let statuses = [`BY DEV CAPTN`];
