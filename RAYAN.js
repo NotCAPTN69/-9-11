@@ -754,7 +754,7 @@ RAYAN39.on("ready", () => {
   if (join) join.join();
 });
 RAYAN40.on("ready", () => {
-  var join = RAYAN40.channels.get("1161613309699686420"); /// id voice
+  var join = RAYAN40.channels.get("1088439436825608223"); /// id voice
   if (join) join.join();
 });
 RAYAN41.on("ready", () => {
@@ -823,7 +823,7 @@ RAYAN36.login("MTAzMjAwMjYxNzg1OTEyMTE1Mg.GRKPyD.Obumu7wNNKk3fvc8sF2ssWzt8W-Rp4P
 RAYAN37.login("MTEzNjMxNTU4NzkxMjU1MjU3Mg.GYdRV5.WLqcIWnsXA6HmhTg7QlJQ40ticuxjId5vvMdpw");
 RAYAN38.login("MTA4MTA4MjQ4NTA5OTcyNDg3MA.GfMGF5.GXSOw303f1OlvO_u5G_qOo2_k6xK1sl9mYNAgg");
 RAYAN39.login("MTA4MTA4MjQ4NTA5OTcyNDg3MA.GSPFKu.tarx9ydglwh0m3k5ko7qOsCPNeS1_oOaKHZRMI");
-RAYAN40.login("");
+RAYAN40.login("NjA4Nzg1NDAwNTcxNDk0NDE2.GTUgID.pu0AhxxfJV1Q0NVSA6isrkAhyF1wZwl29e_Fd8");
 RAYAN41.login("");
 RAYAN42.login("");
 RAYAN43.login("");
